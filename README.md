@@ -6,3 +6,4 @@ Git workout for coderslab
 CCCC
 DODAJE LINIE
 DODAJE DRUG
+DODAJE TRZECIE
